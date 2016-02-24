@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KD</string>
+    <string name="toast_msg_created_successfully">A mensagem foi enviada com sucesso!</string>
+</resources>
